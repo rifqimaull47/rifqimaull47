@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Rifqi Maulana
 
 💻 **Student Developer** passionate about building modern web applications
+
 🚀 Focused on **Frontend & Backend Development**
+
 🌱 Currently learning **Vue.js, Node.js, and API Development**
 
 ---
@@ -21,8 +23,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqimaull47&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqimaull47&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -33,14 +35,20 @@
 * 📚 **Student Management System** – Full CRUD application with backend API
 * 🌌 **Interactive Space Website** – Creative UI with interactive elements
 
-
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/rifqi_maulana" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:rifqi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rifqi-maulana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
