@@ -40,13 +40,13 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://instagram.com/rifqi_maulana" target="_blank">
+  <a href="https://instagram.com/ikyy0_o" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:rifqi@gmail.com">
+  <a href="mailto:rifqimaulll36@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/rifqi-maulana" target="_blank">
+  <a href="https://github.com/rifqimaull47" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
