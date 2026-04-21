@@ -40,7 +40,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://instagram.com/ikyy0_o" target="_blank">
+  <a href="https://instagram.com/ikyyy0_o" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:rifqimaulll36@gmail.com">
