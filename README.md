@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Rifqi Maulana
 
-💻 **Student Developer** passionate about building modern web applications
-
-🚀 Focused on **Frontend & Backend Development**
-
-🌱 Currently learning **Vue.js, Node.js, and API Development**
+💻 **Student Developer** with a strong interest in building modern and scalable web applications  
+🚀 Passionate about both **Frontend & Backend Development**  
+🌱 Currently exploring **Vue.js, Node.js, and RESTful API Development**
 
 ---
 
@@ -20,20 +18,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqimaull47&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqimaull47&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 🔥 Featured Projects
 
-* 🌐 **Personal Portfolio Website** – Built with Vue.js, showcasing my projects and skills
-* 📚 **Student Management System** – Full CRUD application with backend API
-* 🌌 **Interactive Space Website** – Creative UI with interactive elements
+🚀 **Personal Portfolio Website**  
+Built using Vue.js to showcase my projects, skills, and experience in a clean UI  
+
+📚 **Student Management System**  
+Backend-focused CRUD application with REST API for managing student data  
+
+🌌 **Interactive Space Website**  
+Creative web project with engaging UI and interactive animations  
 
 ---
 
@@ -53,5 +47,6 @@
 
 ---
 
-⭐ *"Keep learning, keep building."*
+## ✨ Motto
 
+> *Keep learning, keep building, and never stop improving.*
