@@ -37,7 +37,7 @@ Creative web project with engaging UI and interactive animations
   <a href="https://instagram.com/ikyyy0_o" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:rifqimaulll36@gmail.com">
+  <a href="mailto:rifqimaull478@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/rifqimaull47" target="_blank">
