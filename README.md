@@ -26,9 +26,6 @@ Built using Vue.js to showcase my projects, skills, and experience in a clean UI
 📚 **Student Management System**  
 Backend-focused CRUD application with REST API for managing student data  
 
-🌌 **Interactive Space Website**  
-Creative web project with engaging UI and interactive animations  
-
 ---
 
 ## 📫 Connect With Me
@@ -37,7 +34,7 @@ Creative web project with engaging UI and interactive animations
   <a href="https://instagram.com/ikyyy0_o" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:rifqimaull478@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rifqimaulll67@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/rifqimaull47" target="_blank">
